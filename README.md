@@ -31,4 +31,3 @@ I'm a Lecturer in Banking and Finance at the University of St Andrews, where I e
 ### 📫 How to reach me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/christian-engels)
 - 🌐 [Personal Website](https://engels.phd)
-- ✉️ Professional inquiries: [Contact Email]
