@@ -1,6 +1,5 @@
 # Hi there 👋 I'm Christian Engels
-
-## About Me
+ 
 I'm a Lecturer in Banking and Finance at the University of St Andrews, where I explore the intersection of financial systems and societal dynamics. As a member of the Centre for Responsible Banking & Finance (CRBF), my research focuses on understanding how financial mechanisms impact our broader society.
 
 ### 🎓 Academic Background
